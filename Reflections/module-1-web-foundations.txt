@@ -1,0 +1,16 @@
+Ways to stay organized while learning web development
+
+Old school (i.e. paper):
+  -Print out cheat sheets and put in binder:
+    HTML, CSS, Command Line, Git, Atom shortcuts
+
+Bookmark reference sites in an organized way as they are introduced in the class
+  example:
+  Web development
+    -HTML
+    -CSS
+    -Javascript
+
+Need to study chrome dev tools more
+
+  
