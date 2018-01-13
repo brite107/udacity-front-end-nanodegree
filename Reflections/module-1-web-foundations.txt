@@ -13,4 +13,6 @@ Bookmark reference sites in an organized way as they are introduced in the class
 
 Need to study chrome dev tools more
 
+https://discussions.udacity.com/t/so-you-want-to-post-some-code/33561?u=cnjperry
+
   
