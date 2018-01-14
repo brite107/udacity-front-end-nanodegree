@@ -1,5 +1,6 @@
 body {
   background: #0e0e0e;
+  padding-top: 70px;
 
 }
 div.container {
@@ -7,6 +8,7 @@ div.container {
   width: 320px;
   border: 1px solid #D3D3D3;
   padding: 10px;
+  margin: 10px;
 }
 
 .fact {
