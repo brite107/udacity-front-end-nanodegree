@@ -1,4 +1,8 @@
+body {
+  background: black;
+}
 div.container {
+  background: white;
   width: 320px;
   border: 1px solid #D3D3D3;
   padding: 10px;
