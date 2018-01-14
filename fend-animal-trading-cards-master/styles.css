@@ -1,5 +1,7 @@
 div.container {
   width: 320px;
+  border: 1px solid #D3D3D3;
+  
 }
 
 .fact {
