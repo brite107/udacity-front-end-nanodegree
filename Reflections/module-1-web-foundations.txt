@@ -1,18 +1,20 @@
-Ways to stay organized while learning web development
+Front-end nanodegree
+Module 1 Web Foundations notes and tips
 
-Old school (i.e. paper):
+Old school (i.e. paper) references:
   -Print out cheat sheets and put in binder:
     HTML, CSS, Command Line, Git, Atom shortcuts
 
-Bookmark reference sites in an organized way as they are introduced in the class
-  example:
-  Web development
-    -HTML
-    -CSS
-    -Javascript
+Bookmark reference sites as they are introduced in the class. Organize the bookmarks so you can easily find what you're looking for later--there are a lot of references!!
+ 
+Things I meed to do:
+	-study chrome dev tools more (youTube web dev playlist, https://developers.google.com/web/tools/chrome-devtools/css/)
+	-investigate Emmet atom package
 
-Need to study chrome dev tools more
-
+Advice on posting code in forums:
 https://discussions.udacity.com/t/so-you-want-to-post-some-code/33561?u=cnjperry
+
+Help for animal trading card project:
+	Layout tutorial w3schools: https://www.w3schools.com/html/html_layout.asp	
 
   
