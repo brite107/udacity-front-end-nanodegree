@@ -9,6 +9,7 @@ div.container {
   border: 1px solid #D3D3D3;
   margin: auto;
   padding: 10px;
+  box-shadow: 5px 5px #e6e6e6;
 }
 
 div.about-animal {
