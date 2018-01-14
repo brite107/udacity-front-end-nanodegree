@@ -11,6 +11,11 @@ div.container {
   margin: auto;
 }
 
+div.about-animal {
+  border: 1px solid #D3D3D3;
+  
+}
+
 .fact {
   font-style: italic;
 }
