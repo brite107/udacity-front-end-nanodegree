@@ -10,6 +10,10 @@ div.container {
   box-shadow: 5px 5px #e6e6e6;
 }
 
+img {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 div.about-animal {
   border: 1px solid #D3D3D3;
   padding: 10px;
