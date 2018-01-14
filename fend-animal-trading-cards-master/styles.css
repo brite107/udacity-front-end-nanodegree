@@ -1,10 +1,8 @@
 body {
-  background: #0e0e0e;
   padding-top: 70px;
-
 }
+
 div.container {
-  background: white;
   width: 300px;
   border: 1px solid #D3D3D3;
   margin: auto;
@@ -15,7 +13,7 @@ div.container {
 div.about-animal {
   border: 1px solid #D3D3D3;
   padding: 10px;
-  font-size: 12px; 
+  font-size: 12px;
 }
 
 
