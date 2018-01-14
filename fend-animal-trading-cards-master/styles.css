@@ -5,10 +5,10 @@ body {
 }
 div.container {
   background: white;
-  width: 320px;
+  width: 300px;
   border: 1px solid #D3D3D3;
-  padding: 10px;
   margin: auto;
+  padding: 10px;
 }
 
 div.about-animal {
@@ -16,6 +16,11 @@ div.about-animal {
   padding: 10px;
 }
 
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
 .fact {
   font-style: italic;
 }
