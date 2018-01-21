@@ -15,6 +15,7 @@ Advice on posting code in forums:
 https://discussions.udacity.com/t/so-you-want-to-post-some-code/33561?u=cnjperry
 
 Help for animal trading card project:
-	Layout tutorial w3schools: https://www.w3schools.com/html/html_layout.asp	
+	Layout tutorial w3schools: https://www.w3schools.com/html/html_layout.asp
+	CSS box model	
 
   
